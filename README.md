@@ -3,6 +3,8 @@ how time flies
 
 ## 导出朋友圈数据
 
+https://github.com/JackyLee3362/wemo
+
 https://github.com/Mr0x01/WeChatMomentExport-iOS
 
 
