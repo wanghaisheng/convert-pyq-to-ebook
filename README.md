@@ -1,32 +1,13 @@
-manually build site with help of websim
+how time flies
 
 
+## 导出朋友圈数据
 
-this may not perfect but is a start
-
-
-## feature 
+https://github.com/Mr0x01/WeChatMomentExport-iOS
 
 
-1. auto generate sitemap based on lang subfolder,including .html files
-2. auto check seo requirements avoid google redirection and not index issue
-3. auto submit url to google index use indexnow
-4.pc mobile responsive
-5. seo metadata
-6. google analytic and microsoft clarity
-7. pwa support
-8. keyword research
-   umbrella  trend  kgr spyfu
-10.  user  https://github.com/wanghaisheng/workers-users-cloudflare/tree/main
+https://github.com/adysec/wechat_sqlite
 
-11.  dev
-    
-https://idx.google.com/applimode-7011803
+https://github.com/Atlasoin/wechat-moments-exporter
 
-12. image generation
-
-logo, cover,
-
-14.  blog  text generation  g4f
-
-https://github.com/wanghaisheng/auto-blog-g4f-action
+https://github.com/tech-shrimp/WechatMoments
